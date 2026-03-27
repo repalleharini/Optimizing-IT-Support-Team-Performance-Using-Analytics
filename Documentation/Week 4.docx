@@ -2,7 +2,7 @@ WEEK 4
 
 1.Introduction
 
-In Week 4 of the project, the primary focus was on identifying key performance indicators (KPIs) and designing KPI cards and performance metrics using Power BI. After completing data cleaning in the previous stage, the dataset containing 1,000 cleaned records across 22 columns was ready for analysis. At this stage, the goal was to transform the cleaned call center data into meaningful insights that can help evaluate the performance of the IT support team.
+In this Week of the project, the primary focus was on identifying key performance indicators (KPIs) and designing KPI cards and performance metrics using Power BI. After completing data cleaning in the previous stage, the dataset containing 1,000 cleaned records across 22 columns was ready for analysis. At this stage, the goal was to transform the cleaned call center data into meaningful insights that can help evaluate the performance of the IT support team.
 KPI cards are essential components in any dashboard because they provide a quick summary of important metrics. Instead of analyzing raw data, decision-makers can directly view key values such as total tickets handled, average handle time, SLA compliance rate, and customer satisfaction score. This makes it significantly easier to monitor team performance and identify areas that require immediate improvement.
 
 
@@ -74,6 +74,6 @@ By monitoring these KPIs regularly through Power BI dashboards, organizations ca
 
 Conclusion
 
-By the end of Week 4, several important outcomes were achieved. KPI cards were successfully designed to display eight key performance metrics directly derived from the dataset columns. The cleaned dataset was thoroughly analyzed to identify the most relevant performance indicators for IT support call center operations, and six meaningful business questions were framed to guide the dashboard development process.
+By the end of Week , several important outcomes were achieved. KPI cards were successfully designed to display eight key performance metrics directly derived from the dataset columns. The cleaned dataset was thoroughly analyzed to identify the most relevant performance indicators for IT support call center operations, and six meaningful business questions were framed to guide the dashboard development process.
 These outcomes established a strong and structured foundation for building effective, interactive, and insight-driven Power BI dashboards in the upcoming stages of the project.
  Sonnet 4.6
