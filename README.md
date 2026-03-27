@@ -3,7 +3,7 @@
 
 # 📌 Project Title
 
-**Optimizing IT Support Call Center Performance using Data Visualization (Power BI)**
+**Optimizing IT Support Team Performance using Data Visualization (Power BI)**
 
 ---
 
